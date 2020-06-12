@@ -25,8 +25,11 @@ We queried the data using MySQL that returns desired outputs
 
 We used these datasets so we could identify the unemployment rates per county for the state of new jersey including wages and median house prices. The final output has the tables for 
 
-•	Civilian labor Population
-•	Unemployment and Employment 
-•	Median Household Income
-•	Median house prices
+   Civilian labor Population
+
+   Unemployment and Employment
+
+   Median Household Income
+
+   Median house prices
 
